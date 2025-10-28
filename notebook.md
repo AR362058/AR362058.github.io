@@ -76,6 +76,8 @@
 |      |  | |  | | |
 |      |  | |  | | |
 |      | Scanner | Creates a scanner object to take input from user| Scanner in = new Scanner(System.in); | | |
+|      | import Scanner | Gives access to Scanner class, required at top | import java.util.Scanner; | | |
+|      | print line statement | prints what's in the parenthesis, adds lines after | System.out.print(" "); | | |
 |      |  | |  | | |
 |      |  | |  | | |
 |      |  | |  | | |
